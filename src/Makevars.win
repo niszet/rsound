@@ -1,2 +1,2 @@
-PKG_LIBS='-Lc:/Program Files/Csound6_x64/bin/' -lcsound64 '-Lc:/Program Files/Csound6_x64/bin/' -lcsnd6
 PKG_CXXFLAGS='-Ic:/Program Files/Csound6_x64/include/'
+PKG_LIBS='-Lc:/Program Files/Csound6_x64/bin/' -lcsound64 '-Lc:/Program Files/Csound6_x64/bin/' -lcsnd6
