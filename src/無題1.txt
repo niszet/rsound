@@ -1,0 +1,2 @@
+Sys.setenv("PKG_LIBS"='-Lc:/Csound6_x64/bin/ -lcsound64 -Lc:/Csound6_x64/bin/ -lcsnd6')
+Sys.setenv("PKG_CXXFLAGS"='-Ic:/Csound6_x64/include')

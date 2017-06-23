@@ -1,0 +1,1 @@
+PKG_LIBS= -L"c:/Csound6_x64/include" -lcsound64
